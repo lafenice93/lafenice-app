@@ -1,9 +1,9 @@
 {
-  "name": "lafenice-onboarding",
+  "name": "lafenice-app",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
-  "description": "LAFENICE — futuristic luxury AI avatar onboarding flow.",
+  "description": "LAFENICE — luxury private mirror app for face, cycle, makeup, hair, and cody.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
